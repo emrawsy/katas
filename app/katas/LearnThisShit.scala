@@ -525,6 +525,5 @@ object LearnThisShit {
     abc(letters.map(abc.indexOf).sum % 26)
   }
 
-val x = "This is a val"
 }
 
