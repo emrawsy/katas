@@ -524,6 +524,5 @@ object LearnThisShit {
     val abc = 'z' +: ('a' to 'y')
     abc(letters.map(abc.indexOf).sum % 26)
   }
-val x = "this is a commmit"
 }
 
